@@ -52,7 +52,7 @@ camera="raspi"
 ### Additional options to supply to MJPG Streamer for the RasPi Cam
 #
 # See https://faq.octoprint.org/mjpg-streamer-config for available options
--r 720x480
+-r 1920x1080
 #
 # Defaults to 10fps
 #
